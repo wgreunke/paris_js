@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paris_js/static/css/main.e6c13ad2.css",
+    "main.js": "/paris_js/static/js/main.14fddf5d.js",
+    "static/js/787.63859316.chunk.js": "/paris_js/static/js/787.63859316.chunk.js",
+    "index.html": "/paris_js/index.html",
+    "main.e6c13ad2.css.map": "/paris_js/static/css/main.e6c13ad2.css.map",
+    "main.14fddf5d.js.map": "/paris_js/static/js/main.14fddf5d.js.map",
+    "787.63859316.chunk.js.map": "/paris_js/static/js/787.63859316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14fddf5d.js"
+  ]
+}
